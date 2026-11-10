@@ -1,0 +1,13 @@
+# Facesthetics by Dr. Maryam
+
+Swedish, responsive one-page clinic website. All booking links go directly to Bokadirekt. No booking form, accounts, tracking, or backend.
+
+## Files and hosting
+
+The complete website is in the repository root. Serve it with any static server. GitHub Pages publishes the root of the `main` branch.
+
+## Content
+
+The portrait, three result photographs and certificate material were supplied by the client. Result photographs are used without retouching. Prices and the visit address are maintained on the linked Bokadirekt page. Cormorant Garamond (regular and true italic) and DM Sans are self-hosted under `assets/fonts/`, with their SIL Open Font Licenses included. Subtle scroll reveals respect reduced-motion preferences. Images and certificates open in a keyboard-accessible dialog.
+
+To update content, edit `index.html`, `styles.css` and `script.js`. Replace assets under `assets/` as needed. Push to `main` to deploy.
