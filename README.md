@@ -4,7 +4,7 @@ Swedish, responsive one-page clinic website. All booking links go directly to Bo
 
 ## Files and hosting
 
-The complete website is in the repository root. Serve it with any static server. GitHub Pages publishes the root of the `main` branch.
+The complete website is in the repository root. Serve it with any static server. Cloudflare Pages publishes the root of the `main` branch at https://facesthetics-by-dr-maryam.pages.dev/. GitHub Pages also publishes the same branch.
 
 ## Content
 
